@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @adriannesilva
+- 👀 I’m a PhD student at the Microbiology Department of Instituto Aggeu Magalhães/Fiocruz Pernambuco
+- 🌱 I’m currently learning the basics to bioinformatics
+- 💞️ My research projects includes the CRISPR/Cas system in pathogenic bacteria as well as its relationship with prophages
+- 📫 How to reach me: adrianneasilva@gmail.com
